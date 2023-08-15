@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Experiment App</string>
+    <string name="name_error">Enter your name</string>
+    <string name="toast_msg_tst">Toast message test</string>
+</resources>
